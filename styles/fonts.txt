@@ -1,0 +1,10 @@
+<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Dancing+Script|Gaegu|Lobster|Pacifico" rel="stylesheet">
+
+
+
+
+font-family: 'Gaegu', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Berkshire Swash', cursive;

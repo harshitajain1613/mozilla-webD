@@ -1,0 +1,24 @@
+p{
+    color:chartreuse;
+    font-size: 35px;
+    font-family: 'Lobster', cursive;
+}
+h1{
+    color: #0FF591;
+    font-family: 'pacifico', cursive;
+    font-size: 90px;
+    text-shadow: 6px 6px 2px black;
+}
+h2{
+    color: #124FF6;
+    font-family: 'berkshire swash', cursive;
+    font-size: 60px;
+    text-shadow: 3px 3px 1px black;
+}
+body{
+    background-color: #F612A2
+}
+img{
+    padding: 10px 15px 20px 15px;
+    border: 20px solid darkcyan;
+}
